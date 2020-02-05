@@ -107,7 +107,7 @@ export const threeStepCardText = {
 	step1: '',
 	step2: {
 		header: 'select your program',
-		text: "Dartmouth's Thayer School of Engineering focuses exclusively on its Applied Data Science program."
+		text: 'The Thayer School of Engineering at Dartmouth focuses exclusively on its Applied Data Science program.'
 	},
 	step3: `You'll be on your way to an exciting career in tech as part of ${schoolName}'s powerful network.`
 };
