@@ -75,7 +75,7 @@ export const faq = {
   loanRange: [
     {
       programName: "Applied Data Science",
-      maxAmount: "$12,500",
+      maxAmount: "$6,500",
       col: false,
       colAmount: "$6,000",
     },
@@ -141,7 +141,7 @@ export const programLoanInfo = [
     url: "https://my.skills.fund/application?lenderCode=SFEDADSPT19",
     loanInfo: {
       // match loanInfo in first metro below
-      maxLoanAmt: 12500,
+      maxLoanAmt: 6500,
       loanTerm36: true,
       loanTerm60: true,
       "Interest Only": {
@@ -163,7 +163,7 @@ export const programLoanInfo = [
         location: "Metro 1",
         loanInfo: {
           // // match loanInfo to Program 1 above
-          maxLoanAmt: 12500,
+          maxLoanAmt: 6500,
           loanTerm36: true,
           loanTerm60: true,
           "Interest Only": {
@@ -336,7 +336,7 @@ export const programLoanInfo = [
 
 // ***** BEGIN LOAN CALC TEXT INFO *****
 export const programMaxText =
-  "Choose the loan amount that works best for you. Borrow up to $12,500 for Applied Data Science tuition."
+  "Choose the loan amount that works best for you. Borrow up to $6,500 for Applied Data Science tuition."
 
 export const paymentTable = {
   headers: ["Program", "Tuition", "Cost of Living", "Max Total"],
